@@ -1,2 +1,2 @@
-# Java-Projects
-Mini Java projects
+## Java Projects
+This repo includes mini Java projects
